@@ -1,7 +1,7 @@
  ## Hola Soy Moises David  
 
 - 🔭 Actualmente estoy trabajando en Front-End
-- 🌱 Actualmente estoy aprendiendo Angular
+- 🌱 Actualmente estoy aprendiendo React
 - 📫 Cómo comunicarse conmigo: Davidllanos095@hotmail.com  
 
 <div align="center">
